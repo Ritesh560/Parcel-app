@@ -1,0 +1,14 @@
+.container {
+  border: 2px solid black;
+  margin: 2%;
+}
+.box {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.parcel {
+  padding: 10px;
+  width: 25%;
+  flex: 20%;
+}

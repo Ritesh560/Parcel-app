@@ -1,0 +1,60 @@
+.nevbar {
+  border: 2px solid black;
+  padding: 0%;
+  width: auto;
+  height: auto;
+  margin-bottom: 2%;
+  background-color: rgb(19, 6, 3);
+}
+.nevbar ul {
+  list-style-type: none;
+  position: relative;
+}
+li {
+  display: inline;
+}
+.btn {
+  font-size: 15px;
+  border-radius: 10%;
+  margin: 0% 2%;
+  padding: 8px;
+  background-color: blue;
+  color: aliceblue;
+}
+.btn:hover {
+  background-color: rgb(96, 235, 15);
+  cursor: pointer;
+}
+
+.login {
+  margin: 0% 40%;
+  width: 400px;
+  height: 40%;
+  background-color: rgb(226, 235, 235);
+  border-radius: 1%;
+  border: 2px solid black;
+  padding: 10px;
+  text-align: center;
+  align-items: center;
+}
+
+.input {
+  text-align: center;
+  width: 300px;
+  padding: 5px;
+  margin: 3px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.button {
+  border: 2px solid black;
+  margin: 5px 50px;
+  padding: 3px;
+  border-radius: 5px;
+  background-color: blue;
+  color: white;
+  text-align: center;
+  align-items: center;
+  cursor: pointer;
+}
